@@ -1,7 +1,7 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
-    introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
+    introTitle: '🖐🖐🖐 Chao Xìn... Hê Hê ! 🖐🖐🖐',
+    introDesc: `Híu Cóa Cái Nài Muốn Hỏi. `,
     btnIntro: 'OK',
     title: 'Anh biết Em thích Anh phải không phải không ? 😙',
     desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    messLink: 'https://m.me/cancap.chuot'
 }
