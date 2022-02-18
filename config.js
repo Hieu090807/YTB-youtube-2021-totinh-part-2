@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
     mess: 'Biết Ngay Mà, Híu cũng thích Tô Anh lắm 🥰. Làm Bạn Gái Híu Nha 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
+    messDesc: '💬💬 Nhắn tin cho Híu nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://m.me/cancap.chuot'
 }
