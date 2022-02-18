@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Không trả lời hoặc thoát ra, tức là Tô Anh thích Híu đó nha :> ',
     btnYes: 'Có, Mình thật sự thích Cậu 💖💖💖',
     btnNo: '💔 Mơ à ! 💔 ',
-    question:'Nói cho Híu biết đi vì sao Tô Anh thích Híu 😊😊',
+    question:'Nói cho Híu biết đi vì sao Tô Anh thích Híu !😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
